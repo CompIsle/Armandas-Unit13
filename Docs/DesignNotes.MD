@@ -40,4 +40,4 @@ After that, I will document any changes and updates on here...
 + Test 01
 <br> I have successfully added fully functional navigation bar that can direct the user, towards "About us" and "Contact us" pages:
 
-! [AltText] (https://github.com/CompIsle/Armandas-Unit13/blob/master/Docs/DesignNotesScreenshots/Test01.png)
+! [alt text](Test01.png "ss")
