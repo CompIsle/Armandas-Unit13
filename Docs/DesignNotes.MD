@@ -39,4 +39,5 @@ For testing I am going to make up a draft website design which doesnt include an
 After that, I will document any changes and updates on here...
 + Test 01
 <br> I have successfully added fully functional navigation bar that can direct the user, towards "About us" and "Contact us" pages:
-![Test01Screenshot](Docs\DesginNotesScreenshots\Test01.JPG)
+
+<img src="Docs\DesignNotesScreenshots\Test01.png" alt="Test01Screenshot" >
