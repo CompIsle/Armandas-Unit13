@@ -38,6 +38,6 @@ For testing I am going to make up a draft website design which doesnt include an
 <br>
 After that, I will document any changes and updates on here...
 + Test 01
-<br> I have successfully added fully functional navigation bar that can direct the user, towards "About us" and "Contact us" pages:
+<br> I have successfully added fully functional navigation bar that can direct the user, towards "About us" and "Contact us" pages.
+<br> Next step is to make other pages functional.
 
-! [alt text](Test01.png "ss")
