@@ -30,3 +30,10 @@ These are the assests:
 |Samsung Galaxy A12 64GB|£169.99|https://www.carphonewarehouse.com/samsung/galaxy-a12.html?intcmp=TOP_NAV_MOBILES_BESTSELLER_SAMSUNG_A12_080121#!colour=white&capacity=64GB&dealType=sf|
 |Iphone 12 Mini 5G Ready|£699.99|https://www.carphonewarehouse.com/apple/iphone-12-mini.html?intcmp=TOP_NAV_MOBILES_BESTSELLER_IPHONE_12_MINI_210121#!colour=white&capacity=64GB&dealType=sf|
 |Huawei Y5 2019 16GG|£89.99|https://www.carphonewarehouse.com/huawei/y5-2019.html#!colour=black&capacity=16GB&dealType=sf
+
+
+<h2>Testing<h2>
+
+For testing I am going to make up a draft website design which doesnt include any styling, assets, but just bland components in the places that wireframe is put in.
+<br>
+After that, I will document any changes and updates on here...
