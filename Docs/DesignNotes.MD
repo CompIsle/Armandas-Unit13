@@ -37,3 +37,6 @@ These are the assests:
 For testing I am going to make up a draft website design which doesnt include any styling, assets, but just bland components in the places that wireframe is put in.
 <br>
 After that, I will document any changes and updates on here...
++ Test 01
+<br> I have successfully added fully functional navigation bar that can direct the user, towards "About us" and "Contact us" pages:
+![Test01Screenshot](Docs\DesginNotesScreenshots\Test01.JPG)
