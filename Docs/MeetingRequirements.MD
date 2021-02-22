@@ -1,9 +1,9 @@
 <h1>Meeting the needed requirements<h1>
 <h2> Owner requirements<h2>
- Owner requirements were met by sourcing an asset list which contains informations such as: specifications, prices and source website. For now I do not meet the requirement of Domain, because I haven't thought of it yet.
+ Owner requirements were met by choosing a good domain name and making sure it represents the company. 
  <br>
  <h2>Maintainers requirements<h2>
- Maintainer requirements were met by creating the right documentation and creating a repository in github.
+ Maintainer requirements were met by sourcing an asset list which contains informations such as: specifications, prices and source website. creating the right documentation and creating a repository in github.
  <br>
  <h2>Visitor Requirements<h2>
  Visitor requirements were met by planning out a good layout of the website with visible and easy accessible navigation. I am not sure if the transaction end was a requirement, so I did not reasearch it.
