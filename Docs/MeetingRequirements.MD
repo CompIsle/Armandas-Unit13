@@ -19,7 +19,7 @@
  <h2>Styling Intro</h2>
  So now we are at the point where we talk about fonts, sizes, colours and other styling elements.
  <h2>Fonts</h2>
- So the fonts I picked for my website are: "MerriWeather" which will only be used for Name of the website which will be on top of the website, then we have "Oswald" which will be used for the nav bar and buttons that contain text within and finally "Work Sans" which will be used for any other text(descriptions, information, etc..)<br>
+ So the fonts survey has picked for my website are: "MerriWeather" which will only be used for Name of the website which will be on top of the website, then we have "Oswald" which will be used for the nav bar and buttons that contain text within and finally "Work Sans" which will be used for any other text(descriptions, information, etc..)<br>
  I used these fonts, because: They match the theme of technology and are easily readible. 
  <br>
  <h2>Sizes</h2>
