@@ -6,7 +6,7 @@
  <br>
  The owner obviously cares about the costumers aswell so he will want the website to be easily navigatable, easy to read and attractive. The attractive part will make users to come back and even get more costumers.
  <h2>Maintainers requirements</h2>
- Maintainer requirements were met by sourcing an asset list which contains informations such as: specifications, prices and source website. Creating the right documentation, good and easily accessable folder strucute and a github repo.
+ Maintainer requirements were met by sourcing an asset list which contains informations such as: specifications, prices and source website. Creating the right documentation, good and easily accessable folder structure and a github repo.
  <br>
  <h2>Visitor Requirements</h2>
  Visitor requirements were met by planning out a good layout of the website.
