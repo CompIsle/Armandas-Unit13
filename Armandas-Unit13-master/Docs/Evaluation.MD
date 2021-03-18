@@ -1,19 +1,37 @@
 # Table of Contents
-- [Table of Contents](#Table-of-Contents)
-- [Intoduction](#Intoduction)
-- [Evaluation](#Evaluation)
-  - [Meeting the requirements](#Meeting-the-requirements)
-    - [Owners](#Owners)
-      - [How the owner helped with meeting minimum requirements](#How-the-owner-helped-with-meeting-minimum-requirements)
-    - [Maintainers](#Maintainers)
-      - [What we used](#What-we-used)
-      - [How did the maintanance helped with metting the requirements](#How-did-the-maintanance-helped-with-metting-the-requirements)
-    - [Visitors](#Visitors)
-    - [Designers](#Designers)
-      - [What we used](#What-we-used-1)
-      - [How the design helped with meeting the requirements](#How-the-design-helped-with-meeting-the-requirements)
-  - [Changes](#Changes)
-    - [How the changes to the site helped with meeting the requirements](#How-the-changes-to-the-site-helped-with-meeting-the-requirements)
+- [Table of Contents](#table-of-contents)
+- [Intoduction](#intoduction)
+- [Evaluation](#evaluation)
+  - [Meeting the requirements](#meeting-the-requirements)
+  - [Designers](#designers)
+    - [Create a layout that would be easy to navigate](#create-a-layout-that-would-be-easy-to-navigate)
+    - [Produce atleast 8 pages](#produce-atleast-8-pages)
+    - [Choose fonts for the website](#choose-fonts-for-the-website)
+    - [Create a colour scheme that would be used for the website](#create-a-colour-scheme-that-would-be-used-for-the-website)
+    - [Make sure that images are the same size](#make-sure-that-images-are-the-same-size)
+    - [Conclusion](#conclusion)
+  - [Maintainers](#maintainers)
+    - [Make sure all the documentation is up-to date](#make-sure-all-the-documentation-is-up-to-date)
+    - [Create a GitHub repo for the project](#create-a-github-repo-for-the-project)
+    - [Make sure all the links to source files are functional](#make-sure-all-the-links-to-source-files-are-functional)
+    - [Make sure the website is functional](#make-sure-the-website-is-functional)
+    - [Conclusion](#conclusion-1)
+  - [Visitors](#visitors)
+    - [The website can be accessed](#the-website-can-be-accessed)
+    - [The website has functional navigation](#the-website-has-functional-navigation)
+    - [The website is responsive](#the-website-is-responsive)
+    - [The website has content appropriate to the bussiness](#the-website-has-content-appropriate-to-the-bussiness)
+    - [Conclusion](#conclusion-2)
+  - [Changes](#changes)
+    - [Layout](#layout)
+    - [Why is it beneficial?](#why-is-it-beneficial)
+    - [Phone Page](#phone-page)
+    - [Why is it beneficial?](#why-is-it-beneficial-1)
+    - [About Us Page](#about-us-page)
+    - [Why is it beneficial?](#why-is-it-beneficial-2)
+  - [Feedback](#feedback)
+    - [Does it meet the minimal requirements?](#does-it-meet-the-minimal-requirements)
+    - [Are there any constraints that could affect the way website performs?](#are-there-any-constraints-that-could-affect-the-way-website-performs)
 
 
 
@@ -29,59 +47,66 @@ This is an evalution of the whole Unit-13 assignment which includes:
 # Evaluation
 
 ## Meeting the requirements
-### Owners 
-
-The owner of the company wants the website that represents the company, attract costumers and be worth the cash. Owner has to be sure that all the documentation is there incase of any checks or copyright claims.
-
-#### How the owner helped with meeting minimum requirements
-The owner provides us with a rough idea of what he/she wants for the website. Anything ranging from content to the websites naming and branding.
-
-### Maintainers
-
-The maintanance team will need to prepare good documentation, an up-to date aseet list, github repository and make sure everything is working good and is up-to date.
-#### What we used
-* GitHub repository
-* Visual studio code
-* Tables that include:
-  * Names of the phones
-  * Prices of the phones
-  * Links to the source image
-#### How did the maintanance helped with metting the requirements
-Creating a good folder strucutre, helped with making sure that all the work is in the right places like: documents, images, website files.
-<br>
-Writing documentation, will provide a good proof of work which includes testing, checklists and notes.
-<br>
-Time doesn't stop so the maintance has to make sure everything stays up-to date. If a project gets updated the documentation has to be updated aswell with all the changes. If a link to source image doesn't work anymore, the image needs to be replaced with another one that has a working source website.
-Same with the actual website, it needs to keep up with the times. The maintance will handle it.
-### Visitors
-Visitors need the website to be easily accessible, easy to navigate. They will want description about the products and some selection of products. 
-<br>
-These things can be met by designers and developers.
-### Designers
-We believe the website will meet it's requirements by designing user friendly interfrace which comes in many different form. For example: Fonts, colours, layout.
-#### What we used
-* Fonts
-  * "MerriWeather"
-  * "Oswald"
-  * "Work sans"
-* Colours
-  * Safety Orange (Hex: FF7300)
-  * Black (Hex: 000000)
-  * Black coral (Hex: 67697C)
-  * Light Grey (Hex: D3D4D9)
-  * Fire Brick (Hex: BB0A21)
-#### How the design helped with meeting the requirements
-The sites playful yet formal colour pallete, makes the website interesting, but not to the point where it distracts the user from the actual content. It gives life while keeping the professional feel.
-<br>
-Furthermore the website provides a very simple but efficient navigation, with a click of a button you can access "About Us" page.
-<br>
-Finally the fonts chosen were easy to read but different from the usual which again gives the website it's unique feel without compromising on proffesionalism.
+To meet owners requirements  designers and maintainers had to complete certain tasks.
+## Designers
+### Create a layout that would be easy to navigate
+The designer has met the criteria and was able to create such a layout.
+### Produce atleast 8 pages
+The designer has met the criteria and produced 8 pages of content which includes: Home, About Us, Contact Us and 5 product pages.
+### Choose fonts for the website
+The designer has met the criteria by choosing 3 different fonts which are: "Merriweather", "Oswald", "Work Sans".
+### Create a colour scheme that would be used for the website
+The designer has met the criteria by choosing 5 colours for the color scheme: FF7300(Safety Orange), 000000(Black), 67697C(Black Coral), D3D4D9(Light Gray), BB0A21(Firebrick).
+### Make sure that images are the same size
+The designer has met the criteria by using pictures from the same website. This way was faster since it doesn't require any photo editing.
+### Conclusion
+The designer has met all the criteria needed to complete owners requirements.
+## Maintainers
+### Make sure all the documentation is up-to date
+The maintainer has met the criteria by reading trough documents and updating it if needed.
+### Create a GitHub repo for the project
+The maintainer has met the criteria by creating and linking the GitHub repo.
+### Make sure all the links to source files are functional
+The maintainer has met the criteria by updating the asset list and checking out the links.
+### Make sure the website is functional
+The maintainer has met the criteria by ocassionaly testing out the website on different browsers: Google Chrome Version 89.0.4389.90 and Firefox 68.0.
+### Conclusion
+Maintainer has met all the criteria needed to complete owners requirements.
+## Visitors
+### The website can be accessed
+Visitors were able to access the website without any issues.
+### The website has functional navigation
+Visitors were able to navigate troughout the page by using navigation bar or clicking on the images.
+### The website is responsive
+Visitors were able to navigate troughout the website on different size screens although smaller screens seem to have some issues. For example: Navigation bar ending up behind the page content or content doesn't seem too responsive although it still works.
+### The website has content appropriate to the bussiness
+Visitors didn't see anything but the phones, which means yes it is appropriate.
+### Conclusion
+Visitors had barely any issues going to the website and navigating it.
 ## Changes
-We had minor changes made like some of the layout. For example, in the previous prototype the text on the home page was not planned, but we implemented it because the website gives more content and context on what it has.
-<br>
-Another change the site went trough was the buy page being implemented with a carousel, it gave the page more interactivity and it was an easy way to add a required video.
-### How the changes to the site helped with meeting the requirements
-Changing the site a little bit helped to make space for additional content requirements.
-<br>
+### Layout
+We had minor changes made with the layout. For example, in the previous prototype the text on the home page was not planned, but we implemented it because the website gives more content and context on what it has.
+### Why is it beneficial?
+Because the first thing visitors see is the home page, and if we add more content in, the visitors will have more idea about the website, what it offers, how is it any different and so on and so on. 
+### Phone Page 
+The buy page has been implemented with a carousel, instead of just having a static picture like in a prototype which allows more content to be added in one place.
+### Why is it beneficial?
+It attracts more attention to the product, because there is a video about the product which may give sense that the phone is popular between people.
+### About Us Page
+In the prototype this page was not planned, but we introduced it to provide more content.
+### Why is it beneficial?
+Well people might want to know more about company, which can lead to more loyal costumers that will end up using this company for their tech instead of others.
+## Feedback
+
+I have asked my peers for feedback on my website. This is what I received:
+|Name|Number|Comment|
+|:---|------|-------:|
+|Viktor|1|The phone pictures should be better if they were centered bellow the description of the phone so the grey part can be on the whole width of the page. To many colours used on the webpage, it will be nice if they were no more than two. The background colour is so bright. In "about us" page the drop down menu opens up infront of the page causing a some kind of bug.
+|Morgan|2|Background is too much, as in my eyes are drawn more towards the background rather than the phones. Phones need to be more centered, not behind an image. The about us page needs to expand through the whole page rather than the squared space.|
+### Does it meet the minimal requirements?
+Yes it does, the website is functional and it can be navigated trough.
+### Are there any constraints that could affect the way website performs?
+Yes, there are some bugs and styling issues that could be fixed in a later build. For example:  Drop down menu on mobile view tends to go under content in About us page when extended. Another issues is that the nav bar does not span trough the whole pages and cuts off on the sides.
+
 
 

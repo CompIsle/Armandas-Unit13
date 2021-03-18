@@ -1,0 +1,4 @@
+|Name|Number|Comment|
+|:---|------|-------:|
+|Viktor|1|The phone pictures should be better if they were centered bellow the description of the phone so the grey part can be on the whole width of the page. To many colours used on the webpage, it will be nice if they were no more than two. The background colour is so bright. In "about us" page the drop down menu opens up infront of the page causing a some kind of bug.
+|Morgan|2|Background is too much, as in my eyes are drawn more towards the background rather than the phones. Phones need to be more centered, not behind an image. The about us npage needs to expand through the whole page rather than the squared space.|
