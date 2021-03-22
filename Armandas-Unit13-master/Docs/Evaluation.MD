@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Intoduction](#intoduction)
+- [Introduction](#introduction)
 - [Evaluation](#evaluation)
   - [Meeting the requirements](#meeting-the-requirements)
   - [Designers](#designers)
@@ -35,7 +35,7 @@
 
 
 
-# Intoduction
+# Introduction
 
 This is an evalution of the whole Unit-13 assignment which includes:
 <br>
