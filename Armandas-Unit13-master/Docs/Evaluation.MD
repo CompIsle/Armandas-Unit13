@@ -5,7 +5,7 @@
   - [Meeting the requirements](#meeting-the-requirements)
   - [Designers](#designers)
     - [Create a layout that would be easy to navigate](#create-a-layout-that-would-be-easy-to-navigate)
-    - [Produce atleast 8 pages](#produce-atleast-8-pages)
+    - [Produce at least 8 pages](#produce-at-least-8-pages)
     - [Choose fonts for the website](#choose-fonts-for-the-website)
     - [Create a colour scheme that would be used for the website](#create-a-colour-scheme-that-would-be-used-for-the-website)
     - [Make sure that images are the same size](#make-sure-that-images-are-the-same-size)
@@ -20,7 +20,7 @@
     - [The website can be accessed](#the-website-can-be-accessed)
     - [The website has functional navigation](#the-website-has-functional-navigation)
     - [The website is responsive](#the-website-is-responsive)
-    - [The website has content appropriate to the bussiness](#the-website-has-content-appropriate-to-the-bussiness)
+    - [The website has content appropriate to the business](#the-website-has-content-appropriate-to-the-business)
     - [Conclusion](#conclusion-2)
   - [Changes](#changes)
     - [Layout](#layout)
@@ -32,7 +32,6 @@
   - [Feedback](#feedback)
     - [Does it meet the minimal requirements?](#does-it-meet-the-minimal-requirements)
     - [Are there any constraints that could affect the way website performs?](#are-there-any-constraints-that-could-affect-the-way-website-performs)
-
 
 
 # Introduction
@@ -47,20 +46,20 @@ This is an evalution of the whole Unit-13 assignment which includes:
 # Evaluation
 
 ## Meeting the requirements
-To meet owners requirements  designers and maintainers had to complete certain tasks.
+To meet owner’s requirements, designers and maintainers had to complete certain tasks.
 ## Designers
 ### Create a layout that would be easy to navigate
 The designer has met the criteria and was able to create such a layout.
-### Produce atleast 8 pages
+### Produce at least 8 pages
 The designer has met the criteria and produced 8 pages of content which includes: Home, About Us, Contact Us and 5 product pages.
 ### Choose fonts for the website
 The designer has met the criteria by choosing 3 different fonts which are: "Merriweather", "Oswald", "Work Sans".
 ### Create a colour scheme that would be used for the website
-The designer has met the criteria by choosing 5 colours for the color scheme: FF7300(Safety Orange), 000000(Black), 67697C(Black Coral), D3D4D9(Light Gray), BB0A21(Firebrick).
+The designer has met the criteria by choosing 5 colours for the color scheme: FF7300(Safety Orange), 000000(Black), 67697C (Black Coral), D3D4D9(Light Gray), BB0A21(Firebrick).
 ### Make sure that images are the same size
 The designer has met the criteria by using pictures from the same website. This way was faster since it doesn't require any photo editing.
 ### Conclusion
-The designer has met all the criteria needed to complete owners requirements.
+The designer has met all the criteria needed to complete owner’s requirements.
 ## Maintainers
 ### Make sure all the documentation is up-to date
 The maintainer has met the criteria by reading trough documents and updating it if needed.
@@ -71,7 +70,7 @@ The maintainer has met the criteria by updating the asset list and checking out 
 ### Make sure the website is functional
 The maintainer has met the criteria by ocassionaly testing out the website on different browsers: Google Chrome Version 89.0.4389.90 and Firefox 68.0.
 ### Conclusion
-Maintainer has met all the criteria needed to complete owners requirements.
+Maintainer has met all the criteria needed to complete owner’s requirements.
 ## Visitors
 ### The website can be accessed
 Visitors were able to access the website without any issues.
@@ -79,7 +78,7 @@ Visitors were able to access the website without any issues.
 Visitors were able to navigate troughout the page by using navigation bar or clicking on the images.
 ### The website is responsive
 Visitors were able to navigate troughout the website on different size screens although smaller screens seem to have some issues. For example: Navigation bar ending up behind the page content or content doesn't seem too responsive although it still works.
-### The website has content appropriate to the bussiness
+### The website has content appropriate to the business
 Visitors didn't see anything but the phones, which means yes it is appropriate.
 ### Conclusion
 Visitors had barely any issues going to the website and navigating it.
@@ -101,12 +100,9 @@ Well people might want to know more about company, which can lead to more loyal 
 I have asked my peers for feedback on my website. This is what I received:
 |Name|Number|Comment|
 |:---|------|-------:|
-|Viktor|1|The phone pictures should be better if they were centered bellow the description of the phone so the grey part can be on the whole width of the page. To many colours used on the webpage, it will be nice if they were no more than two. The background colour is so bright. In "about us" page the drop down menu opens up infront of the page causing a some kind of bug.
-|Morgan|2|Background is too much, as in my eyes are drawn more towards the background rather than the phones. Phones need to be more centered, not behind an image. The about us page needs to expand through the whole page rather than the squared space.|
+|Viktor|1|The phone pictures should be better if they were centered bellow the description of the phone, so the grey part can be on the whole width of the page. To many colours used on the webpage, it will be nice if they were no more than two. The background colour is so bright. In "about us" page the drop-down menu opens up infront of the page causing some kind of bug.
+|Morgan|2|Background is too much, as in my eyes are drawn more towards the background rather than the phones. Phones need to be more centered, not behind an image. The about us page needs to expand through the whole page rather than the squared space. |
 ### Does it meet the minimal requirements?
-Yes it does, the website is functional and it can be navigated trough.
+Yes, it does, the website is functional, and it can be navigated trough.
 ### Are there any constraints that could affect the way website performs?
-Yes, there are some bugs and styling issues that could be fixed in a later build. For example:  Drop down menu on mobile view tends to go under content in About us page when extended. Another issues is that the nav bar does not span trough the whole pages and cuts off on the sides.
-
-
-
+Yes, there are some bugs and styling issues that could be fixed in a later build. For example:  Drop down menu on mobile view tends to go under content in About us page when extended. Other issues are that the nav bar does not span trough the whole pages and cuts off on the sides.
