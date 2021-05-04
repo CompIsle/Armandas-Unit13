@@ -1,3 +1,4 @@
+
 # Design Notes
 Design consists of ...
 + Layout - including __sizes__
@@ -6,6 +7,16 @@ Design consists of ...
 
 
 + You will need two designs, a main and an alternative
+  # Wireframes
+|Name|Image|Description|
+|----|-----|-----------|
+|A.|![GraphicA](../src/WireFrame%20A.jpg)| Wireframe A was not chosen because of the clunky and old-school controls.|
+|B.|![GraphicB](../src/WireFrame%20B.jpg)| Wireframe B was chosen as the main blueprint for the website but throughout the build the website barely resembled the wireframe. The reason why this wireframe was chosen is becuase it looks better, takes up less space and is easier to navigate.|
+# How the website changed from it's original  wireframe 
++ Instead of home page being just a carousel,   a placeholder description has been added next to carousel.
++ Drop down bars have been changed to a simple table in the phone buy page
++ Phone page includes a carousel that has a video about the phone
++ **SIZES ON THE WIREFRAME WERE JUST FOR TESTING, THE SIZES WERE DECIDED LATER ON**
 
 # Updates
 
